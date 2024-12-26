@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Tema base para o modo escuro -->
+    <style name="Theme.CalculadoraHoras" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimaryDark</item> <!-- Cor primária alterada para escuro -->
+        <item name="colorPrimaryDark">@color/colorPrimaryDarker</item> <!-- Cor primária escura -->
+        <item name="colorAccent">@color/colorAccentDark</item> <!-- Cor de destaque alterada -->
+        <item name="android:windowBackground">@color/backgroundDark</item> <!-- Cor de fundo escura -->
+    </style>
+</resources>
+

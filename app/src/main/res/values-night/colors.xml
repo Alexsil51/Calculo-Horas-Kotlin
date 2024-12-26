@@ -1,0 +1,13 @@
+<resources>
+    <color name="colorPrimary">#6200EE</color> <!-- Cor primária para o modo escuro -->
+    <color name="colorPrimaryDark">#3700B3</color> <!-- Cor primária escura no modo escuro -->
+    <color name="colorAccent">#03DAC5</color> <!-- Cor de destaque no modo escuro -->
+    <color name="background">#121212</color> <!-- Cor de fundo no modo escuro -->
+
+    <!-- Caso queira uma cor primária mais escura ou destaque específico, adicione como novas cores -->
+    <color name="colorPrimaryDarker">#3700B3</color> <!-- Cor primária mais escura, se necessário -->
+    <color name="colorAccentDark">#018786</color> <!-- Cor de destaque escura -->
+
+    <!-- Adicionando a cor de fundo escura -->
+    <color name="backgroundDark">#0A0A0A</color> <!-- Cor de fundo escura, diferente de background -->
+</resources>

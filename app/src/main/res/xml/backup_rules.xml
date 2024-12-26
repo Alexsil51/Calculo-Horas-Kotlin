@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<backupRules>
+    <!-- Defina suas regras de backup aqui -->
+
+    <full-backup-content>
+        <!--
+       <include domain="sharedpref" path="."/>
+       <exclude domain="sharedpref" path="device.xml"/>
+    -->
+    </full-backup-content>
+
+    <rule
+        type="include"
+        package="com.exemplo.calculadoradehoras"
+        path="files/*" />
+</backupRules>
